@@ -1,21 +1,15 @@
 # Site settings
-title: Eventually
-email: youremailaddress@gmail.com
-description: A simple template for telling the world when you'll launch your next big thing. Brought to you by HTML5 UP.
+title: बचत
+email: knamdeo88@gmail.com
+description: Track your income, expenses and investment and take better financial decisions.
 baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://bachat.money" # the base hostname & protocol for your site
 
 # Social settings
-500px_url:
+linkedin_url: https://www.linkedin.com/company/bachat-money
+twitter_url: https://twitter.com/bachat_money
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
