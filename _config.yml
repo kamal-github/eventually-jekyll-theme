@@ -2,7 +2,7 @@
 title: बचत
 email: knamdeo88@gmail.com
 description: Track your income, expenses and investment and take better financial decisions.
-baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bachat.money" # the base hostname & protocol for your site
 
 # Social settings
